@@ -8,7 +8,7 @@
     "npm": "1.3.x"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "gulp & nodemon index.js"
   },
   "dependencies": {
     "async": "^0.9.0",
