@@ -51,7 +51,7 @@
     "url": "git://github.com/meatspaces/meatspace-chat-v2.git"
   },
   "author": "Edna Piranha <jen@ednapiranha.com> (http://ednapiranha.com)",
-  "license": "BSD",
+  "license": "BSD-2-Clause",
   "browser": {
     "waypoints": "./node_modules/waypoints/lib/noframework.waypoints.js"
   },
@@ -62,5 +62,9 @@
   },
   "browserify-shim": {
     "waypoints": "window.Waypoint"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/meatspaces/meatspace-chat-v2/issues"
+  },
+  "main": "index.js"
 }
